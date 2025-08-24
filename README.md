@@ -1,9 +1,9 @@
 # NSAHackathon
 Chiya Overflow
-🏔️ Smart Trek Planner (NSAHackathon Project)
+🏔️ Khoj (NSAHackathon Project)
 📌 Project Overview
 
-Smart Trek Planner is a web-based application designed to assist mountaineers and trekkers in planning safe and efficient expeditions.
+Khoj is a web-based application designed to assist mountaineers and trekkers in planning safe and efficient expeditions.
 It integrates:
 
 Trekking data (routes, altitude, difficulty, duration, best seasons)
